@@ -1,0 +1,17 @@
+/home/richardowsky/IdeaProjects/avis/src/main/java/com/avis/config/EncryptConfig.java
+/home/richardowsky/IdeaProjects/avis/src/main/java/com/avis/repo/HistoryRepo.java
+/home/richardowsky/IdeaProjects/avis/src/main/java/com/avis/domain/SellerDto.java
+/home/richardowsky/IdeaProjects/avis/src/main/java/com/avis/exception/AppException.java
+/home/richardowsky/IdeaProjects/avis/src/main/java/com/avis/repo/SellerRepo.java
+/home/richardowsky/IdeaProjects/avis/src/main/java/com/avis/model/Role.java
+/home/richardowsky/IdeaProjects/avis/src/main/java/com/avis/AvisApplication.java
+/home/richardowsky/IdeaProjects/avis/src/main/java/com/avis/model/History.java
+/home/richardowsky/IdeaProjects/avis/src/main/java/com/avis/cotroller/RegistrationController.java
+/home/richardowsky/IdeaProjects/avis/src/main/java/com/avis/repo/CarRepo.java
+/home/richardowsky/IdeaProjects/avis/src/main/java/com/avis/model/Car.java
+/home/richardowsky/IdeaProjects/avis/src/main/java/com/avis/domain/AppResponse.java
+/home/richardowsky/IdeaProjects/avis/src/main/java/com/avis/config/Swagger2Config.java
+/home/richardowsky/IdeaProjects/avis/src/main/java/com/avis/repo/CarShowroomRepo.java
+/home/richardowsky/IdeaProjects/avis/src/main/java/com/avis/model/CarShowroom.java
+/home/richardowsky/IdeaProjects/avis/src/main/java/com/avis/model/Seller.java
+/home/richardowsky/IdeaProjects/avis/src/main/java/com/avis/service/SellerService.java
